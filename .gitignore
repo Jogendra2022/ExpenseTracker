@@ -1,0 +1,44 @@
+# Android Studio / IntelliJ
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Gradle
+.gradle/
+build/
+**/build/
+
+# Android
+local.properties
+.externalNativeBuild/
+.cxx/
+
+# Generated files
+captures/
+
+# Kotlin
+.kotlin/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+
+# Firebase configuration
+app/google-services.json
+
+# Keystore / signing files
+*.jks
+*.keystore
+
+# Environment / secrets
+.env
+.env.*
+secrets.properties

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<vector
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="120dp"
+    android:height="120dp"
+    android:viewportWidth="120"
+    android:viewportHeight="120">
+
+    <!-- Purple logo background -->
+    <path
+        android:fillColor="#FF5B5BF7"
+        android:pathData="
+            M60,8
+            C31.3,8 8,31.3 8,60
+            C8,88.7 31.3,112 60,112
+            C88.7,112 112,88.7 112,60
+            C112,31.3 88.7,8 60,8
+            Z" />
+
+    <!-- Wallet -->
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="
+            M30,43
+            C30,38 34,34 39,34
+            L79,34
+            C85,34 90,39 90,45
+            L90,76
+            C90,82 86,86 80,86
+            L39,86
+            C34,86 30,82 30,77
+            Z" />
+
+    <!-- Wallet top -->
+    <path
+        android:fillColor="#FFE8ECFF"
+        android:pathData="
+            M30,48
+            L30,44
+            C30,38 34,34 39,34
+            L78,34
+            C84,34 88,37 90,43
+            L90,48
+            Z" />
+
+    <!-- Wallet pocket -->
+    <path
+        android:fillColor="#FF4F46E5"
+        android:pathData="
+            M70,50
+            L89,50
+            C93,50 96,53 96,57
+            L96,65
+            C96,69 93,72 89,72
+            L70,72
+            C64,72 60,67 60,61
+            C60,55 64,50 70,50
+            Z" />
+
+    <!-- Pocket button -->
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="
+            M71,56
+            C74,56 76,58 76,61
+            C76,64 74,66 71,66
+            C68,66 66,64 66,61
+            C66,58 68,56 71,56
+            Z" />
+
+    <!-- Gold coin -->
+    <path
+        android:fillColor="#FFFFB52E"
+        android:pathData="
+            M82,72
+            C91,72 98,79 98,88
+            C98,97 91,104 82,104
+            C73,104 66,97 66,88
+            C66,79 73,72 82,72
+            Z" />
+
+    <!-- Coin symbol -->
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="
+            M77,81
+            L87,81
+            L87,84
+            L80,84
+            C82,85 83,86 83,88
+            C83,91 80,93 76,94
+            L76,90
+            C78,90 79,89 79,88
+            C79,86 77,86 75,86
+            L75,83
+            Z" />
+
+</vector>

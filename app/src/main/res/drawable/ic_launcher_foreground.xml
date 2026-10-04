@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Wallet -->
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="
+            M22,34
+            C22,29 26,25 31,25
+            L73,25
+            C79,25 84,30 84,36
+            L84,72
+            C84,78 80,82 74,82
+            L31,82
+            C26,82 22,78 22,73
+            Z" />
+
+    <!-- Wallet top -->
+    <path
+        android:fillColor="#FFE7F0FF"
+        android:pathData="
+            M22,39
+            L22,35
+            C22,29 26,25 32,25
+            L72,25
+            C77,25 82,29 84,34
+            L84,39
+            Z" />
+
+    <!-- Wallet pocket -->
+    <path
+        android:fillColor="#FF5B5BF7"
+        android:pathData="
+            M64,43
+            L84,43
+            C88,43 91,46 91,50
+            L91,59
+            C91,63 88,66 84,66
+            L64,66
+            C58,66 54,61 54,55
+            C54,49 58,43 64,43
+            Z" />
+
+    <!-- Wallet button -->
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="
+            M66,50
+            C69,50 71,52 71,55
+            C71,58 69,60 66,60
+            C63,60 61,58 61,55
+            C61,52 63,50 66,50
+            Z" />
+
+    <!-- Coin -->
+    <path
+        android:fillColor="#FFFFB52E"
+        android:pathData="
+            M78,67
+            C86,67 92,73 92,81
+            C92,89 86,95 78,95
+            C70,95 64,89 64,81
+            C64,73 70,67 78,67
+            Z" />
+
+    <!-- Coin highlight -->
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="
+            M74,75
+            L82,75
+            L82,78
+            L76,78
+            C78,79 79,80 79,82
+            C79,85 76,87 73,87
+            L73,84
+            C75,84 76,83 76,82
+            C76,80 74,80 72,80
+            L72,77
+            Z" />
+
+</vector>

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<vector
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Purple rounded background -->
+
+    <path
+        android:fillColor="#5146E5"
+        android:pathData="
+            M22,10
+            L86,10
+            C96,10 98,12 98,22
+            L98,86
+            C98,96 96,98 86,98
+            L22,98
+            C12,98 10,96 10,86
+            L10,22
+            C10,12 12,10 22,10
+            Z" />
+
+    <!-- Wallet body -->
+
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="
+            M29,39
+            L72,27
+            C77,26 81,29 83,34
+            L88,57
+            L42,69
+            C36,70 31,67 30,62
+            Z" />
+
+    <!-- Wallet lower body -->
+
+    <path
+        android:fillColor="#E8E7FF"
+        android:pathData="
+            M25,45
+            L76,31
+            C81,30 86,34 87,39
+            L91,70
+            C92,77 87,82 80,82
+            L35,82
+            C28,82 23,77 23,70
+            L20,54
+            C19,50 21,47 25,45
+            Z" />
+
+    <!-- Wallet purple flap -->
+
+    <path
+        android:fillColor="#5146E5"
+        android:pathData="
+            M27,48
+            L76,35
+            C81,34 85,37 86,42
+            L87,49
+            L37,62
+            C31,63 26,59 25,54
+            C24,51 25,49 27,48
+            Z" />
+
+    <!-- Wallet button -->
+
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="
+            M70,54
+            L86,50
+            C90,49 93,52 94,56
+            L96,65
+            C97,69 94,72 90,73
+            L75,77
+            C71,78 68,75 67,71
+            L65,62
+            C64,58 66,55 70,54
+            Z" />
+
+    <!-- Rupee circle -->
+
+    <path
+        android:fillColor="#FFAA2B"
+        android:pathData="
+            M80,56
+            A11,11 0,1 0,80,78
+            A11,11 0,1 0,80,56" />
+
+    <!-- Rupee symbol -->
+
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="
+            M75,61
+            L85,61
+            L84,64
+            L76,64
+            L76,66
+            C80,66 83,68 84,72
+            L80,72
+            C79,70 77,69 74,69
+            L74,66
+            L73,66
+            L73,63
+            L75,63
+            Z" />
+
+</vector>

@@ -9,6 +9,7 @@ import androidx.compose.runtime.getValue
 import androidx.compose.runtime.mutableStateOf
 import androidx.compose.runtime.saveable.rememberSaveable
 import androidx.compose.runtime.setValue
+import androidx.core.splashscreen.SplashScreen.Companion.installSplashScreen
 import com.myexpense.expensetracker.ui.theme.ExpenseTrackerTheme
 import dagger.hilt.android.AndroidEntryPoint
 
@@ -16,7 +17,14 @@ import dagger.hilt.android.AndroidEntryPoint
 class MainActivity : ComponentActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
+
+        val splashScreen = installSplashScreen()
+
         super.onCreate(savedInstanceState)
+
+        splashScreen.setKeepOnScreenCondition {
+            false
+        }
 
         enableEdgeToEdge()
 
@@ -36,7 +44,6 @@ private fun ExpenseTrackerApp() {
     ExpenseTrackerTheme(
         darkTheme = darkTheme
     ) {
-
         AppNavigation(
             darkTheme = darkTheme,
             onDarkThemeChanged = { enabled ->

@@ -155,21 +155,35 @@ fun AppNavigation(
 
             navController = navController,
 
-            startDestination =
-                if (
-                    FirebaseAuth
-                        .getInstance()
-                        .currentUser != null
-                ) {
-                    "home"
-                } else {
-                    "login"
-                },
+            startDestination = "splash",
 
             modifier = Modifier
                 .fillMaxSize()
                 .padding(innerPadding)
         ) {
+
+            // =========================================================
+            // SPLASH
+            // =========================================================
+
+            composable("splash") {
+
+                SplashScreen(
+                    onFinished = {
+                        val destination = if (FirebaseAuth.getInstance().currentUser != null) {
+                            "home"
+                        } else {
+                            "login"
+                        }
+                        navController.navigate(destination) {
+                            popUpTo("splash") {
+                                inclusive = true
+                            }
+                            launchSingleTop = true
+                        }
+                    }
+                )
+            }
 
             // =========================================================
             // LOGIN

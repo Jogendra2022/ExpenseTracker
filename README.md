@@ -123,8 +123,8 @@ Here are the key screens of ExpenseTracker:
 
 | Login Screen | Home Screen | Expenses Screen | Statistics Screen |
 | :---: | :---: | :---: | :---: |
-| <img src="login_screen.png" width="220" /> | <img src="screenshots/home_screen.png" width="220" /> | <img src="screenshots/expenses_screen.png" width="220" /> | <img src="screenshots/statistics_screen.png" width="220" /> |
+| <img src="screenshots/login_screen.png" width="220" /> | <img src="screenshots/home_screen.png" width="220" /> | <img src="screenshots/expenses_screen.png" width="220" /> | <img src="screenshots/statistics_screen.png" width="220" /> |
 
 | Add Expense Screen | Edit Expense Screen | Expense Details Screen | Profile Screen |
 | :---: | :---: | :---: | :---: |
-| <img src="add_expense_screen.png" width="220" /> | <img src="edit_expense_screen.png" width="220" /> | <img src="expense_details_screen.png" width="220" /> | <img src="profile_screen.png" width="220" /> |
+| <img src="screenshots/add_expense_screen.png" width="220" /> | <img src="screenshots/edit_expense_screen.png" width="220" /> | <img src="screenshots/expense_details_screen.png" width="220" /> | <img src="screenshots/profile_screen.png" width="220" /> |

@@ -129,11 +129,7 @@ Download the ExpenseTracker APK and try the application on a compatible Android 
 Watch the app in action and explore its main features.
 
 **[▶️ Watch ExpenseTracker Demo](https://drive.google.com/file/d/1rf_4ShvlPeG-gIdBEnABnK6RZRB-zzFG/view?usp=drive_link)**
-## 🎥 ExpenseTracker Demo Video
 
-Watch the demo to explore the app's main features, including expense management, editing, search, and statistics.
-
-[▶️ Watch ExpenseTracker Demo Video](ExpenseTracker_Demo.mp4)
 ## 📸 Screenshots
 
 Here are the key screens of ExpenseTracker:

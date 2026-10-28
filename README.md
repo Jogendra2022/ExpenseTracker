@@ -116,7 +116,11 @@ SQLite
 ```
 
 ---
+## 🎥 ExpenseTracker Demo Video
 
+Watch the demo to explore the app's main features, including expense management, editing, search, and statistics.
+
+[▶️ Watch ExpenseTracker Demo Video](ExpenseTracker_Demo.mp4)
 ## 📸 Screenshots
 
 Here are the key screens of ExpenseTracker:

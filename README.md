@@ -116,6 +116,19 @@ SQLite
 ```
 
 ---
+## 📥 Download App
+
+Download the ExpenseTracker APK and try the application on a compatible Android device.
+
+**[⬇️ Download ExpenseTracker APK](https://drive.google.com/file/d/14b1lXPyOUWKcqJDe7lkvc4CpZe3FJrfm/view?usp=drive_link)**
+
+> Note: This is a portfolio project testing build. Install only if you trust the source.
+
+## 🎥 Demo Video
+
+Watch the app in action and explore its main features.
+
+**[▶️ Watch ExpenseTracker Demo](https://drive.google.com/file/d/1rf_4ShvlPeG-gIdBEnABnK6RZRB-zzFG/view?usp=drive_link)**
 ## 🎥 ExpenseTracker Demo Video
 
 Watch the demo to explore the app's main features, including expense management, editing, search, and statistics.
